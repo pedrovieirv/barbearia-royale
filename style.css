@@ -1,0 +1,55 @@
+
+
+    body{
+        
+    }
+     
+#banner{
+    width: 100%;
+}
+ .principal{
+
+    background-color: #dad6d8;
+    padding: 30px;
+ }  
+ 
+ .titulo-pincipal{
+    padding-left: 20%;
+}
+
+ .titulo-centralizado{
+        text-align: center;
+    }
+    p{text-align: center; 
+
+    }
+    #mm{ font-size :20px; text-align: center;
+
+    }
+    em strong{
+        
+        color: rgb(90, 97, 192);
+    }
+    
+    
+    .itens{
+
+        font-style: italic;
+        color:rebeccapurple;
+    } 
+
+    ul{display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+    }
+    #benif{
+        width: 30%;
+    }
+
+    .beneficios{
+
+        background-color:floralwhite;
+        padding: 20px;
+    }
+   
